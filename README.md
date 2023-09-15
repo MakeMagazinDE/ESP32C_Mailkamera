@@ -16,4 +16,4 @@ Hier gibt es den Code zum Projekt im Ordner _src_.
 
 Es ist zusätzlich die Installation der Bibliothek [ESP Mail Client](https://github.com/mobizt/ESP-Mail-Client) von _Mobizt_ über den Bibliotheksverwalter der Arduino IDE nötig. Eine Anleitung dazu gibt es [hier](https://heise.de/-9242659).
 
-Der vollständige Artikel zum Projekt steht im **Make-Special ESP32-CAM 2023** ab Seite 22.
+Der vollständige Artikel zum Projekt steht im **[Make-Special ESP32-CAM 2023](https://shop.heise.de/make-esp32-cam-special-2023-board-ov2640?wt_mc=intern.shop.shop.make_esp32cam.t5.textlink.textlink)** ab Seite 22.
